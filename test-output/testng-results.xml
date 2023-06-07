@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-02T17:07:35 IST" name="Suite" finished-at="2023-05-02T17:07:54 IST" duration-ms="18990">
+    <groups>
+    </groups>
+    <test started-at="2023-05-02T17:07:35 IST" name="Regression Testing" finished-at="2023-05-02T17:07:54 IST" duration-ms="18990">
+      <class name="testngconcepts.TestNGPriority">
+        <test-method is-config="true" signature="initiliazation()[pri:0, instance:testngconcepts.TestNGPriority@cd3fee8]" started-at="2023-05-02T17:07:35 IST" name="initiliazation" finished-at="2023-05-02T17:07:45 IST" duration-ms="10463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiliazation -->
+        <test-method signature="validateGmailLinkTest()[pri:2, instance:testngconcepts.TestNGPriority@cd3fee8]" started-at="2023-05-02T17:07:45 IST" name="validateGmailLinkTest" finished-at="2023-05-02T17:07:45 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGmailLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testngconcepts.TestNGPriority@cd3fee8]" started-at="2023-05-02T17:07:45 IST" name="tearDown" finished-at="2023-05-02T17:07:46 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initiliazation()[pri:0, instance:testngconcepts.TestNGPriority@cd3fee8]" started-at="2023-05-02T17:07:46 IST" name="initiliazation" finished-at="2023-05-02T17:07:53 IST" duration-ms="7791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiliazation -->
+        <test-method signature="validateGoogleLogoTest()[pri:4, instance:testngconcepts.TestNGPriority@cd3fee8]" started-at="2023-05-02T17:07:53 IST" name="validateGoogleLogoTest" finished-at="2023-05-02T17:07:53 IST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGoogleLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testngconcepts.TestNGPriority@cd3fee8]" started-at="2023-05-02T17:07:53 IST" name="tearDown" finished-at="2023-05-02T17:07:54 IST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testngconcepts.TestNGPriority -->
+      <class name="testngconcepts.ParallerExecution">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:testngconcepts.ParallerExecution@48aaecc3]" started-at="2023-05-02T17:07:35 IST" name="initialization" finished-at="2023-05-02T17:07:38 IST" duration-ms="3290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="yahoorSearchTest()[pri:1, instance:testngconcepts.ParallerExecution@48aaecc3]" started-at="2023-05-02T17:07:38 IST" name="yahoorSearchTest" finished-at="2023-05-02T17:07:43 IST" duration-ms="5010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahoorSearchTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testngconcepts.ParallerExecution@48aaecc3]" started-at="2023-05-02T17:07:43 IST" name="tearDown" finished-at="2023-05-02T17:07:44 IST" duration-ms="899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialization()[pri:0, instance:testngconcepts.ParallerExecution@48aaecc3]" started-at="2023-05-02T17:07:44 IST" name="initialization" finished-at="2023-05-02T17:07:45 IST" duration-ms="1327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="googlrSearchTest()[pri:2, instance:testngconcepts.ParallerExecution@48aaecc3]" started-at="2023-05-02T17:07:45 IST" name="googlrSearchTest" finished-at="2023-05-02T17:07:52 IST" duration-ms="6294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googlrSearchTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testngconcepts.ParallerExecution@48aaecc3]" started-at="2023-05-02T17:07:52 IST" name="tearDown" finished-at="2023-05-02T17:07:52 IST" duration-ms="743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testngconcepts.ParallerExecution -->
+    </test> <!-- Regression Testing -->
+  </suite> <!-- Suite -->
+</testng-results>
